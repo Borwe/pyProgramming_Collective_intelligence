@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/brian/Documents/Python/programming_Collective_intelligence/cpiPy"
+VIRTUAL_ENV="/home/brian/Documents/Python/pyProgramming_Collective_intelligence/cpiPy"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
